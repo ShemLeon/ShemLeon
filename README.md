@@ -34,12 +34,6 @@ I am a Java/Kotlin Developer
 <br>🔭 Licensed Quality Control and Measurement Engineer
 </p>
 
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -89,12 +83,6 @@ I am a Java/Kotlin Developer
 
 ###
 <h3 align="left">🔥   My statistics :</h3>
-
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShemLeon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
