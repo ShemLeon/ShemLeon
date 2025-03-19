@@ -13,12 +13,14 @@
 
 <div align="center">
   <a href="mailto:shemiakinleonid@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo" />
+  </a>;
   <a href="https://t.me/Ololosh13" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="telegram logo" />
+  </a>;
+  <a href="https://linkedin.com/in/leonid-shemiakin-904559193/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/leonid-shemiakin-904559193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonid-shemiakin-904559193/" height="30" width="40" /></a>
 </div>
 
 ###
@@ -89,8 +91,11 @@ I am a Java/Kotlin Developer
   <img width="12" />
   <br>
   <img src="https://img.icons8.com/color/48/000000/solidworks.png" height="40" alt="solidworks logo" />
+   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/000000" height="40" alt="linux" />
+   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git" />
+   <img width="12" />
 </div>
 
 ###
