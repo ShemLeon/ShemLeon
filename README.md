@@ -89,7 +89,7 @@ I am a Java/Kotlin Developer
   <img width="12" />
   <br>
   <img src="https://img.icons8.com/color/48/000000/solidworks.png" height="40" alt="solidworks logo" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux" />
+  <img src="https://cdn.simpleicons.org/linux/000000" height="40" alt="linux" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git" />
 </div>
 
