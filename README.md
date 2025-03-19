@@ -86,7 +86,7 @@ I am a Java/Kotlin Developer
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=shemleon&show_icons=true&locale=en&card_width=320" alt="shemleon" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shemleon&show_icons=true&locale=en&layout=compact&card_width=320" alt="shemleon" height="150" />
 </div>
