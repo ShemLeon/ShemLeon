@@ -32,8 +32,8 @@
 ###
 
 <p align="left">
-  I am a Java/Kotlin Developer
-My journey in IT began at the Technion, where I am graduating in 2025 with a degree in Software Development. Over the past 3 years, I’ve explored various areas, studying C, Python, JavaScript, React, and Cyber, but I was most captivated by working with Java, database development, and mobile app development for Android. I also hold a higher education degree in Mechanical Engineering. Currently, my studies are coming to an end, and I am actively seeking my first job!
+I am a Java/Kotlin Developer
+<br>My journey in IT began at the Technion, where I am graduating in 2025 with a degree in Software Development. Over the past 3 years, I’ve explored various areas, studying C, Python, JavaScript, React, and Cyber, but I was most captivated by working with Java, database development, and mobile app development for Android. I also hold a higher education degree in Mechanical Engineering. Currently, my studies are coming to an end, and I am actively seeking my first job!
 
 <br>📚 Received Cisco Introduction certification
 <br>🔭 Licensed Quality Control and Measurement Engineer
