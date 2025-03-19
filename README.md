@@ -88,7 +88,7 @@ I am a Java/Kotlin Developer
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=shemleon&show_icons=true&locale=en&card_width=320" alt="shemleon" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shemleon&show_icons=true&locale=en&layout=compact&card_width=320" alt="shemleon" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shemleon&show_icons=true&locale=en&layout=compact&card_width=200" alt="shemleon" height="150" />
 </div>
 
 ###
