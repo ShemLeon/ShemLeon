@@ -35,7 +35,7 @@
 
 <p align="left">
 I am a Java/Kotlin Developer
-<br>My journey in IT began at the Technion, where I am graduating in 2025 with a degree in Software Development. Over the past 3 years, I’ve explored various areas, studying C, Python, JavaScript, React, and Cyber, but I was most captivated by working with Java, database development, and mobile app development for Android. I also hold a higher education degree in Mechanical Engineering. Currently, my studies are coming to an end, and I am actively seeking my first job!
+<br>My journey in IT began at the Technion, where I am graduating in 2025 with a degree in Software Development. Over the past 3 years, I've explored various areas, studying C, Python, JavaScript, React, and Cyber, but I was most captivated by working with Java, database development, and mobile app development for Android. I also hold a higher education degree in Mechanical Engineering. Currently, my studies are coming to an end, and I am actively seeking my first job!
 
 <br>📚 Received Cisco Introduction certification
 <br>🔭 Licensed Quality Control and Measurement Engineer
@@ -74,15 +74,15 @@ I am a Java/Kotlin Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5" />
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <img src="https://www.gstatic.com/devrel-devsite/prod/v6bfb74446ce17cd0d3af9b93bf26e056161cb79c5a6475bd6a9c25286fcb7861/firebase/images/lockup.svg" height="40" alt="firebase logo" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql" />
+  <img src="https://cdn.simpleicons.org/nodejs/339933" height="40" alt="nodejs" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase" />
   <img width="12" />
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   
@@ -102,27 +102,11 @@ I am a Java/Kotlin Developer
   <img src="https://streak-stats.demolab.com?user=ShemLeon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shemleon&show_icons=true&locale=en&layout=compact" alt="shemleon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shemleon&show_icons=true&locale=en" alt="shemleon" /></p>
-
-###
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShemLeon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShemLeon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shemleon&show_icons=true&locale=en&card_width=320" alt="shemleon" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shemleon&show_icons=true&locale=en&layout=compact&card_width=320" alt="shemleon" height="150" />
 </div>
 
 ###
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shemleon&label=Profile%20views&color=0e75b6&style=flat" alt="shemleon" /> </p>
-
-
-
-
-
- 
-
