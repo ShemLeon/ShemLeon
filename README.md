@@ -73,7 +73,7 @@ I am a Java/Kotlin Developer
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5" />
@@ -81,15 +81,13 @@ I am a Java/Kotlin Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql" />
-  <img src="https://cdn.simpleicons.org/nodejs/339933" height="40" alt="nodejs" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase" />
   <img width="12" />
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  
   <br>
   <img src="https://img.icons8.com/color/48/000000/solidworks.png" height="40" alt="solidworks logo" />
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git" />
 </div>
 
 ###
