@@ -74,14 +74,15 @@ I am a Java/Kotlin Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5" />
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo" />
   <img width="12" />
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <br>
