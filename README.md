@@ -10,17 +10,8 @@
 <h3 align="center">A Java/Mobile developer from Israel</h3>
 
 ###
-
 <div align="center">
-  <a href="mailto:shemiakinleonid@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo" />
-  </a>;
-  <a href="https://t.me/Ololosh13" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="telegram logo" />
-  </a>;
-  <a href="https://linkedin.com/in/leonid-shemiakin-904559193/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo" />
-  </a>
+  <a href="mailto:shemiakinleonid@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"/></a><a href="https://t.me/Ololosh13" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="telegram logo"/></a><a href="https://linkedin.com/in/leonid-shemiakin-904559193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo"/></a>
 </div>
 
 ###
