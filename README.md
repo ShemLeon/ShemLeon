@@ -82,6 +82,7 @@ I am a Java/Kotlin Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb" />
   <img width="12" />
   <img src="https://www.gstatic.com/devrel-devsite/prod/v6bfb74446ce17cd0d3af9b93bf26e056161cb79c5a6475bd6a9c25286fcb7861/firebase/images/lockup.svg" height="40" alt="firebase logo" />
