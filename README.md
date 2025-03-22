@@ -16,12 +16,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShemLeon.ShemLeon&" alt="Visitor Badge" />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About me </h3>
 
 ###
@@ -92,3 +86,12 @@ I am a Java/Kotlin Developer
 </div>
 
 ###
+
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShemLeon.ShemLeon&" alt="Visitor Badge" />
+</div>
+
+###
+
